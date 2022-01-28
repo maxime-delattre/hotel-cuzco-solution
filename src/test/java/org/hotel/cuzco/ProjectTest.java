@@ -1,4 +1,4 @@
-package org.example;
+package org.hotel.cuzco;
 
 import org.junit.jupiter.api.Test;
 
@@ -12,6 +12,8 @@ public class ProjectTest {
     public void testAssertion() {
         Dependency dependency = new Dependency();
         Project project = new Project(dependency);
+
+        String
 
         assertEquals(1, project.testFunction());
     }
