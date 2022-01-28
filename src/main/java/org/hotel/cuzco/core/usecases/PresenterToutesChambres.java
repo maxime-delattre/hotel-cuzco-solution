@@ -5,7 +5,7 @@ import org.hotel.cuzco.core.domain.ports.ChambreRepository;
 
 import java.util.List;
 
-public class PrésenterToutesChambres {
+public class PresenterToutesChambres {
 
     ChambreRepository chambreRepository;
 
